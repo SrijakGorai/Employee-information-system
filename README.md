@@ -1,4 +1,4 @@
-👨‍💼 Employee Management System
+👨‍💼 Employee Information System
 A secure and user-friendly Employee Management System built with Spring Boot for the backend and React.js for the frontend. The system supports JWT-based authentication, enabling authorized users to add, view, and manage employee records.
 
 📌 Features
