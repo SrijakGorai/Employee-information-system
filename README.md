@@ -1,7 +1,8 @@
 👨‍💼 Employee Information System
 A secure and user-friendly Employee Management System built with Spring Boot for the backend and React.js for the frontend. The system supports JWT-based authentication, enabling authorized users to add, view, and manage employee records.
 
-📌 Features
+📌 Features--->
+
 🔐 JWT Authentication: Secure login with role-based access.
 
 👥 Employee CRUD: Add, view, update, and delete employee records.
@@ -12,8 +13,10 @@ A secure and user-friendly Employee Management System built with Spring Boot for
 
 🚀 Fast and responsive UI built with React.
 
-🛠️ Tech Stack
-🔧 Backend
+🛠️ Tech Stack:
+
+🔧 Backend--->
+
 Java + Spring Boot
 
 Spring Security + JWT
@@ -24,7 +27,8 @@ MySQL
 
 Maven
 
-💻 Frontend
+💻 Frontend--->
+
 React.js (Vite or CRA)
 
 Axios for API calls
